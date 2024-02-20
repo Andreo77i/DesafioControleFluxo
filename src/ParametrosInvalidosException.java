@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class ParametrosInvalidosException {
+public class ParametrosInvalidosException extends Exception{
+    // Classe estendida de Exceptions, serve para tratar exceções
 }
